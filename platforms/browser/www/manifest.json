@@ -1,0 +1,12 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "BondEarns Investment",
+  "short_name": "BondEarns Investment",
+  "version": "com.bondearns.app",
+  "description": "The best P2P platform",
+  "author": "BondEarns Investment",
+  "icons": [],
+  "start_url": "index.html",
+  "theme_color": "#2196f3"
+}
